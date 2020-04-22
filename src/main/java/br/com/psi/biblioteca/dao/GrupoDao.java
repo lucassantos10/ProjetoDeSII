@@ -15,5 +15,5 @@ import br.com.psi.biblioteca.util.JpaUtil;
  */
 public class GrupoDao extends DaoGeneric<Grupo> {
 
-    
+    Teste
 }
