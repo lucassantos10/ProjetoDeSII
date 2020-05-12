@@ -85,6 +85,7 @@ public class Facade {
 
     public void removerUsuario(Usuario u, long id) throws DaoException {
         usuarioDao.remove(u, id);
+        System.out.println("");
 
     }
 
